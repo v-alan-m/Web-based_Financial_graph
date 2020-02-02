@@ -10,4 +10,4 @@
 - Embedding Bokeh charts within a **Flask webpage**
 - Deploying the chart website to a live server
 
-Lessons learnt from: https://www.udemy.com/course/the-python-mega-course/
+Lessons were learnt from: https://www.udemy.com/course/the-python-mega-course/
