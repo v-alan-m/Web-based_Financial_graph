@@ -4,11 +4,11 @@
 python -m venv virtual
 
 ## Dependancies:
-python -m pip install --upgrade pip
-pip install flask
-pip install bokeh
-pip install pandas
-pip install pandas_datareader
+python -m pip install --upgrade pip  
+pip install flask  
+pip install bokeh  
+pip install pandas  
+pip install pandas_datareader  
 
 - Download datasets using python
 - Read stock market data
