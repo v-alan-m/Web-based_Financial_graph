@@ -1,4 +1,4 @@
-# Web-based_Financial_graph
-Web-based Financial graph
+# Web-based Financial graph
 
-Coming soon Q2 2020
+
+Lessons learnt from: https://www.udemy.com/course/the-python-mega-course/learn/lecture/5189198#questions
