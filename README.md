@@ -10,6 +10,7 @@ pip install bokeh
 pip install pandas  
 pip install pandas_datareader  
 
+## Objectives:
 - Download datasets using python
 - Read stock market data
 - Make stock market **candlestick** charts
