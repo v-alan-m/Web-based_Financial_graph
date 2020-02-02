@@ -3,7 +3,6 @@
 - Download datasets using python
 - Read stock market data
 - Make stock market **candlestick** charts
-- Make candlestick graphs with **Bokeh Quandrants**
 - Candlestick charts with **Bokeh rectangles**
 - Candlestick segments
 - Chart styling
